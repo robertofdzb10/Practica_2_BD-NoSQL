@@ -7,7 +7,7 @@ db = client['futbol']
 jugadoras = db['jugadoras']
 
 # Lee el archivo CSV e inserta en MongoDB
-with open('jugadoras.csv', newline='', encoding='utf-8') as csvfile:
+with open('data/jugadoras.csv', newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         # Transformar los campos de fecha y otros formatos si es necesario
