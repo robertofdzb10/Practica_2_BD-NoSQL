@@ -1,6 +1,7 @@
 // 1. Modificaciones
 
 // Modificar nombre de la jugadora con dni 12345678A
+
 db.jugadoras.updateOne(
   { dni: "12345678A" },
   { $set: { nombre: { $toUpper: "$nombre" } } }
@@ -19,14 +20,27 @@ db.jugadoras.updateOne(
 db.jugadoras.find({
   dni: "12345678A",
   "equipo.start_year": { $gt: 2020 }
+})
+
+db.jugadoras.find({
+  dni: "12345678A",
+  "equipo.start_year": { $gt: 2020 }
 }).explain("executionStats")
 
 // Filtrar por Equipos que Empiecen con "Manchester…"
 db.jugadoras.find({
   "equipo.nombre": { $regex: /^Manchester/, $options: "i" }
+})
+
+db.jugadoras.find({
+  "equipo.nombre": { $regex: /^Manchester/, $options: "i" }
 }).explain("executionStats")
 
 // Consulta por un País Específico
+db.jugadoras.find({
+  "equipo.pais": "España"
+})
+
 db.jugadoras.find({
   "equipo.pais": "España"
 }).explain("executionStats")
