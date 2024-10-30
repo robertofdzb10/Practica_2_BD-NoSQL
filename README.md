@@ -25,40 +25,40 @@ Este repositorio contiene el desarrollo de una práctica sobre bases de datos No
    
 2. **Estructura del Esquema**: No es necesario definir un esquema rígido en MongoDB, pero los documentos siguen esta estructura general:
     ```json
-db.jugadoras.insertOne({
-  "_id": "1",
-  "dni": "12345678A",
-  "nombre": "Ana",
-  "apellido": "González",
-  "edad": 24,
-  "ocupacion": "Delantera",
-  "equipo": {
-    "nombre": "Manchester United",
-    "pais": "UK",
-    "start_year": 2022
-  },
-  "condicion_fisica": {
-    "peso": 60.5,
-    "altura": 1.68,
-    "enfermedades": ["asma"],
-    "categoria": "A",
-    "grupo_sanguineo": "O+"
-  },
-  "estadisticas": {
-    "posesion_porcentaje": 65.3,
-    "goles": 15,
-    "pases": 120
-  },
-  "lesiones":
-    {
-      "tipo_lesion": "Lesión muscular",
-      "fecha_inicio": ISODate("2024-08-18"),
-      "fecha_fin": ISODate("2024-09-18"),
-      "descripcion": "Lesión en el muslo",
-      "retorno_estimado": "Doubtful"
-      }
-    ]
-  })
+  db.jugadoras.insertOne({
+    "_id": "1",
+    "dni": "12345678A",
+    "nombre": "Ana",
+    "apellido": "González",
+    "edad": 24,
+    "ocupacion": "Delantera",
+    "equipo": {
+      "nombre": "Manchester United",
+      "pais": "UK",
+      "start_year": 2022
+    },
+    "condicion_fisica": {
+      "peso": 60.5,
+      "altura": 1.68,
+      "enfermedades": ["asma"],
+      "categoria": "A",
+      "grupo_sanguineo": "O+"
+    },
+    "estadisticas": {
+      "posesion_porcentaje": 65.3,
+      "goles": 15,
+      "pases": 120
+    },
+    "lesiones":
+      {
+        "tipo_lesion": "Lesión muscular",
+        "fecha_inicio": ISODate("2024-08-18"),
+        "fecha_fin": ISODate("2024-09-18"),
+        "descripcion": "Lesión en el muslo",
+        "retorno_estimado": "Doubtful"
+        }
+      ]
+    })
 
     ```
 
