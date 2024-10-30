@@ -33,3 +33,5 @@ with open('data/jugadoras.csv', newline='', encoding='utf-8') as csvfile:
         jugadoras.insert_one(row)
 
 print("Inserción completada")
+
+

@@ -1,101 +1,101 @@
 dni,nombre,apellido,edad,ocupacion,equipo_nombre,equipo_pais,start_year,peso,altura,enfermedades,categoria,grupo_sanguineo,posesion_porcentaje,goles,pases,tipo_lesion,fecha_inicio,fecha_fin,descripcion,retorno_estimado
-33587252K,Maria,Jiménez,22,Portera,Valencia,Italia,2017,61.0,1.69,asma,B,AB+,66.3,0,132,Desgarro muscular,2024-01-02,2024-01-11,desgarro muscular leve,Recovered
-53397936Z,Laura,Díaz,27,Defensora,Tottenham,UK,2020,59.9,1.63,asma,B,AB-,67.2,11,104,Rotura de ligamentos,2023-12-05,2024-01-30,rotura de ligamentos leve,Doubtful
-65799733T,Carmen,Suárez,20,Portera,Liverpool,Italia,2021,60.2,1.76,ninguna,A,AB-,71.1,9,143,Lesión de hombro,2024-02-01,2024-02-07,lesión de hombro leve,Recovering
-78200992S,Elena,Ortega,29,Portera,Real Sociedad,Alemania,2018,58.7,1.73,ninguna,B,O-,69.3,18,138,Rotura de ligamentos,2024-06-02,2024-06-09,rotura de ligamentos leve,Recovered
-82789759J,Natalia,González,28,Delantera,Sevilla,España,2023,64.5,1.7,ninguna,A,AB-,64.5,4,192,Tendinitis,2024-07-15,2024-07-26,tendinitis leve,Doubtful
-36568002R,Laura,Navarro,22,Defensora,Tottenham,Italia,2022,60.2,1.74,asma,C,A+,74.6,8,183,Tendinitis,2023-11-07,2023-12-20,tendinitis leve,Doubtful
-95605459S,Ana,Moreno,20,Delantera,Sevilla,UK,2023,57.3,1.7,ninguna,C,B-,70.4,0,141,Desgarro muscular,2024-04-23,2024-06-03,desgarro muscular leve,Doubtful
-29257028Z,Blanca,González,26,Defensora,Borussia Dortmund,Francia,2017,56.6,1.78,asma,A,B-,60.5,20,137,Desgarro muscular,2023-12-22,2024-01-10,desgarro muscular leve,Recovered
-20963583W,Elena,Díaz,21,Defensora,AC Milan,España,2019,60.1,1.63,ninguna,C,O+,69.1,4,151,Rotura de ligamentos,2024-09-20,2024-10-31,rotura de ligamentos leve,Recovering
-45581604T,Raquel,Cruz,28,Defensora,Liverpool,Alemania,2022,59.6,1.69,ninguna,C,O-,61.3,6,137,Fractura de nariz,2023-12-19,2024-02-03,fractura de nariz leve,Recovered
-47547349K,Sara,Jiménez,27,Delantera,Real Sociedad,Italia,2022,64.2,1.73,ninguna,B,AB+,70.7,4,151,Rotura de ligamentos,2024-03-07,2024-03-30,rotura de ligamentos leve,Doubtful
-14263455Y,Elena,Moreno,30,Portera,Manchester United,Francia,2022,64.5,1.71,asma,A,A+,73.5,20,148,Desgarro muscular,2024-03-12,2024-04-09,desgarro muscular leve,Doubtful
-97808295V,Carmen,Vega,24,Defensora,Leicester City,España,2018,62.3,1.69,asma,A,O+,67.6,8,180,Tendinitis,2024-01-01,2024-01-17,tendinitis leve,Recovering
-52047361C,Sofia,Sanz,22,Delantera,Inter de Milán,Italia,2023,64.9,1.69,ninguna,B,A-,68.7,17,105,Contusión,2023-11-13,2023-12-10,contusión leve,Recovered
-22934409R,Ana,López,21,Delantera,Leicester City,Alemania,2020,64.5,1.7,asma,A,O+,73.2,8,119,Lesión de hombro,2023-12-01,2024-01-13,lesión de hombro leve,Recovered
-32720168J,Sara,López,26,Defensora,PSG,Italia,2022,62.8,1.73,ninguna,B,AB-,62.8,13,145,Rotura de ligamentos,2024-05-23,2024-07-06,rotura de ligamentos leve,Recovered
-90708649O,Cristina,González,20,Centrocampista,Inter de Milán,Alemania,2023,60.0,1.71,asma,C,O-,65.7,17,177,Desgarro muscular,2024-09-27,2024-10-07,desgarro muscular leve,Recovering
-43647758K,Adriana,Sanz,21,Portera,Valencia,Alemania,2018,61.1,1.75,ninguna,B,AB+,60.2,7,174,Desgarro muscular,2024-03-03,2024-04-29,desgarro muscular leve,Recovered
-46679686W,Isabel,González,22,Defensora,Liverpool,UK,2017,58.0,1.71,ninguna,C,B-,67.1,18,178,Lesión de hombro,2024-01-12,2024-02-05,lesión de hombro leve,Recovered
-22335637L,Natalia,Sanz,22,Defensora,Manchester City,Italia,2017,63.5,1.75,asma,B,B+,63.8,8,127,Rotura de ligamentos,2024-04-20,2024-06-07,rotura de ligamentos leve,Recovered
-78355957K,Cristina,Ruiz,30,Centrocampista,AC Milan,Francia,2019,64.9,1.71,asma,A,A-,64.7,11,113,Fractura de nariz,2024-08-01,2024-08-14,fractura de nariz leve,Doubtful
-73769402W,Blanca,Ortega,26,Centrocampista,Atlético Madrid,España,2020,64.1,1.69,asma,A,A-,64.5,8,131,Lesión de hombro,2024-09-09,2024-09-23,lesión de hombro leve,Recovered
-56720810H,Natalia,Moreno,24,Defensora,Arsenal,UK,2022,59.0,1.6,ninguna,C,AB+,73.1,9,169,Contractura,2024-05-28,2024-07-03,contractura leve,Recovering
-43182732N,Isabel,Díaz,28,Portera,Barcelona,Italia,2021,57.2,1.64,asma,B,O-,60.9,6,197,Desgarro muscular,2024-03-08,2024-03-31,desgarro muscular leve,Doubtful
-69738428N,Lucía,López,22,Delantera,Sevilla,España,2018,55.1,1.65,asma,A,AB+,64.8,19,195,Tendinitis,2024-03-19,2024-05-11,tendinitis leve,Recovering
-99989525W,Isabel,García,21,Defensora,Liverpool,Francia,2021,58.6,1.78,asma,C,O+,71.8,20,188,Contusión,2023-11-29,2023-12-19,contusión leve,Recovered
-99013938L,Lucía,Suárez,30,Delantera,Valencia,UK,2022,62.5,1.66,ninguna,C,O-,75.0,17,104,Tendinitis,2024-03-08,2024-03-31,tendinitis leve,Recovered
-70487832E,Adriana,Serrano,20,Portera,Leicester City,España,2021,58.8,1.78,asma,B,AB-,64.6,7,141,Lesión de hombro,2024-03-14,2024-05-11,lesión de hombro leve,Recovered
-14762034U,Lucía,Ruiz,21,Defensora,PSG,UK,2022,56.8,1.63,ninguna,C,AB+,61.8,14,105,Lesión muscular,2023-12-19,2024-02-14,lesión muscular leve,Doubtful
-39272319E,Blanca,García,21,Delantera,Borussia Dortmund,Francia,2020,60.8,1.75,ninguna,C,O-,63.9,11,200,Rotura de ligamentos,2024-07-28,2024-08-04,rotura de ligamentos leve,Doubtful
-23538878D,Sofia,Sanz,27,Centrocampista,PSG,Alemania,2020,56.9,1.75,ninguna,C,O-,60.2,13,150,Contractura,2024-05-17,2024-06-09,contractura leve,Doubtful
-42676781S,Sofia,Ruiz,23,Centrocampista,Juventus,Francia,2022,57.2,1.69,ninguna,C,O+,67.5,19,144,Tendinitis,2023-12-02,2024-01-12,tendinitis leve,Recovered
-14890683A,Sofia,Moya,28,Centrocampista,Juventus,España,2018,61.0,1.72,asma,C,AB+,66.8,5,172,Rotura de ligamentos,2024-01-14,2024-03-08,rotura de ligamentos leve,Doubtful
-80519399C,Ana,Navarro,30,Portera,Valencia,UK,2017,63.6,1.79,asma,C,AB+,73.1,13,187,Rotura de ligamentos,2024-07-17,2024-09-05,rotura de ligamentos leve,Doubtful
-92104791T,Cristina,Navarro,26,Portera,Valencia,Alemania,2019,58.9,1.78,ninguna,B,A-,60.6,19,123,Tendinitis,2024-02-09,2024-03-12,tendinitis leve,Recovering
-41840672R,Ana,González,27,Portera,AC Milan,Italia,2017,61.3,1.69,ninguna,C,A-,72.9,15,113,Desgarro muscular,2024-08-05,2024-09-21,desgarro muscular leve,Doubtful
-93954381C,Sofia,García,23,Centrocampista,Tottenham,Francia,2020,57.6,1.75,asma,A,AB+,70.8,16,135,Lesión de hombro,2024-06-11,2024-06-18,lesión de hombro leve,Recovered
-34667614B,Maria,Díaz,30,Centrocampista,Atlético Madrid,Italia,2019,61.3,1.73,asma,C,A+,68.8,13,136,Fractura de nariz,2024-01-15,2024-02-24,fractura de nariz leve,Recovered
-29837902G,Elisa,Cruz,22,Delantera,Real Sociedad,España,2023,64.9,1.62,ninguna,B,A-,67.3,19,194,Contusión,2024-01-26,2024-02-28,contusión leve,Recovering
-55744210J,Isabel,Serrano,20,Defensora,Chelsea,España,2022,63.4,1.61,asma,C,AB-,74.3,3,117,Fractura de nariz,2024-03-03,2024-03-19,fractura de nariz leve,Recovered
-48633339H,Lucía,Cruz,23,Portera,Inter de Milán,España,2021,64.1,1.7,ninguna,C,AB+,61.4,5,101,Contusión,2024-09-10,2024-09-15,contusión leve,Recovered
-42115913N,Natalia,Fernández,24,Defensora,Leicester City,Italia,2019,62.3,1.76,ninguna,C,AB+,71.9,12,110,Contractura,2024-05-31,2024-07-02,contractura leve,Recovered
-88498352L,Adriana,Moreno,24,Delantera,Bayern Munich,Italia,2017,62.4,1.72,asma,A,AB-,70.2,15,112,Contusión,2023-12-11,2024-01-26,contusión leve,Recovering
-76723296E,Elena,Díaz,22,Centrocampista,Real Madrid,UK,2021,56.8,1.79,asma,C,O-,70.3,11,151,Tendinitis,2024-04-06,2024-05-26,tendinitis leve,Recovered
-55840383P,Isabel,Ruiz,28,Centrocampista,Manchester City,Alemania,2023,56.3,1.64,ninguna,C,B+,70.5,16,197,Lesión muscular,2024-02-04,2024-02-09,lesión muscular leve,Recovered
-69354711W,Cristina,López,25,Centrocampista,Manchester City,Italia,2017,61.8,1.62,asma,A,A-,69.2,3,181,Lesión de hombro,2024-09-12,2024-09-24,lesión de hombro leve,Recovered
-26185088U,Elisa,Pérez,28,Defensora,Atlético Madrid,Francia,2022,59.7,1.71,asma,A,A-,71.6,6,113,Desgarro muscular,2024-09-06,2024-10-11,desgarro muscular leve,Recovering
-92805674H,Julia,Navarro,23,Defensora,Tottenham,España,2023,63.8,1.6,ninguna,B,O-,63.8,18,117,Tendinitis,2024-03-11,2024-03-28,tendinitis leve,Doubtful
-81764954N,Lucía,García,22,Defensora,Olympique Lyon,UK,2021,61.1,1.77,ninguna,C,O-,74.1,10,152,Esguince de tobillo,2024-09-11,2024-10-17,esguince de tobillo leve,Doubtful
-60766350Z,Adriana,Fernández,27,Defensora,Juventus,Alemania,2018,57.7,1.7,ninguna,C,AB+,71.2,16,157,Lesión muscular,2024-02-23,2024-03-31,lesión muscular leve,Recovering
-22789842G,Paula,García,27,Delantera,Chelsea,Italia,2020,57.1,1.67,asma,C,AB+,71.5,20,101,Contractura,2024-06-28,2024-08-21,contractura leve,Recovering
-43399008E,Ana,Ruiz,22,Portera,Arsenal,Francia,2023,63.3,1.61,asma,B,B-,63.3,1,164,Esguince de tobillo,2024-08-02,2024-09-04,esguince de tobillo leve,Doubtful
-14753673J,Blanca,Suárez,26,Portera,Olympique Lyon,Francia,2017,55.6,1.68,ninguna,C,B+,72.1,19,115,Rotura de ligamentos,2024-03-06,2024-04-10,rotura de ligamentos leve,Doubtful
-15245453E,Maria,Martínez,28,Portera,Inter de Milán,Alemania,2022,59.7,1.67,asma,A,O-,73.2,1,148,Esguince de tobillo,2024-01-08,2024-02-11,esguince de tobillo leve,Recovering
-14643955R,Isabel,Moreno,29,Centrocampista,Juventus,Alemania,2021,64.8,1.74,asma,A,A+,71.6,8,187,Tendinitis,2023-12-29,2024-01-29,tendinitis leve,Recovering
-69438875V,Marta,Ortega,27,Portera,Valencia,Italia,2022,62.2,1.66,asma,C,O+,69.5,7,187,Contractura,2024-07-30,2024-08-08,contractura leve,Recovered
-25718654C,Ana,Pérez,26,Delantera,Inter de Milán,UK,2023,59.1,1.68,ninguna,B,O-,74.8,11,147,Lesión muscular,2023-12-29,2024-01-07,lesión muscular leve,Recovering
-19905658S,Raquel,Fernández,26,Delantera,Liverpool,Francia,2017,56.6,1.79,asma,A,AB-,61.5,13,146,Lesión de hombro,2024-05-15,2024-06-01,lesión de hombro leve,Recovered
-57654482K,Elisa,Gómez,29,Defensora,Arsenal,Alemania,2023,58.8,1.67,ninguna,C,A+,61.1,5,172,Fractura de nariz,2024-04-18,2024-04-30,fractura de nariz leve,Recovering
-68771517V,Laura,Ramírez,21,Delantera,Juventus,Alemania,2019,60.9,1.61,ninguna,C,A+,60.5,0,190,Lesión muscular,2024-06-28,2024-07-19,lesión muscular leve,Recovered
-60701058Q,Ana,González,29,Defensora,Borussia Dortmund,UK,2017,59.1,1.62,asma,B,A-,66.5,11,163,Lesión de hombro,2024-05-13,2024-07-10,lesión de hombro leve,Recovered
-15926281A,Laura,López,26,Portera,PSG,Francia,2022,59.9,1.62,asma,A,B-,73.5,19,170,Fractura de nariz,2024-01-06,2024-02-27,fractura de nariz leve,Recovered
-82163549N,Blanca,Suárez,24,Delantera,Juventus,Francia,2023,60.9,1.76,asma,C,AB-,63.1,0,107,Lesión muscular,2024-05-21,2024-06-16,lesión muscular leve,Doubtful
-43490224L,Carmen,Serrano,23,Portera,Arsenal,Italia,2020,64.9,1.7,ninguna,C,B-,66.3,12,112,Contractura,2024-01-20,2024-03-11,contractura leve,Doubtful
-68988251O,Lucía,Pérez,29,Delantera,Manchester United,Italia,2021,60.4,1.63,ninguna,B,O-,73.4,10,127,Contusión,2023-12-21,2024-01-03,contusión leve,Doubtful
-10242714V,Natalia,Díaz,21,Defensora,Leicester City,Alemania,2017,63.2,1.72,asma,C,B-,65.6,15,145,Lesión de hombro,2024-09-09,2024-11-01,lesión de hombro leve,Recovered
-10668925C,Paula,Ortega,26,Centrocampista,Leicester City,España,2022,59.3,1.73,ninguna,A,A-,69.4,18,136,Lesión muscular,2024-04-07,2024-06-04,lesión muscular leve,Doubtful
-30208060A,Isabel,Navarro,21,Delantera,Chelsea,UK,2018,59.5,1.61,asma,A,B+,60.6,2,143,Contusión,2023-12-27,2024-01-17,contusión leve,Doubtful
-56273623D,Laura,Cruz,29,Centrocampista,Manchester City,España,2023,60.4,1.74,ninguna,A,O+,73.5,3,100,Desgarro muscular,2024-06-05,2024-07-22,desgarro muscular leve,Recovered
-64771670B,Cristina,Suárez,23,Delantera,AC Milan,UK,2019,63.3,1.76,ninguna,C,O+,73.6,6,155,Esguince de tobillo,2023-12-01,2023-12-20,esguince de tobillo leve,Doubtful
-80517457B,Isabel,Serrano,26,Portera,Tottenham,Italia,2018,55.6,1.78,ninguna,A,O+,62.1,14,195,Contusión,2023-12-29,2024-02-07,contusión leve,Recovering
-39819001Y,Sofia,Díaz,20,Portera,Borussia Dortmund,Italia,2022,65.0,1.63,ninguna,C,A-,71.2,19,187,Contusión,2024-04-04,2024-05-22,contusión leve,Recovered
-65241683H,Maria,Suárez,27,Portera,Valencia,Italia,2021,58.0,1.74,ninguna,C,AB-,65.4,17,126,Lesión muscular,2024-02-25,2024-04-02,lesión muscular leve,Recovered
-77269315V,Ana,Vega,21,Delantera,Sevilla,UK,2021,64.7,1.71,ninguna,C,A+,67.6,5,130,Contusión,2023-11-08,2023-12-12,contusión leve,Recovering
-62028345A,Sofia,Suárez,26,Portera,Inter de Milán,Italia,2018,64.8,1.68,ninguna,A,A-,62.4,0,198,Esguince de tobillo,2024-07-27,2024-08-26,esguince de tobillo leve,Doubtful
-88112104O,Cristina,Díaz,24,Centrocampista,Tottenham,Francia,2018,58.6,1.6,ninguna,B,B-,64.7,8,169,Contusión,2023-11-12,2024-01-06,contusión leve,Recovered
-96560778P,Carmen,Díaz,26,Portera,PSG,Alemania,2021,55.8,1.72,ninguna,A,B-,63.6,3,124,Contusión,2024-09-06,2024-09-19,contusión leve,Doubtful
-27580631X,Isabel,Sanz,20,Portera,Barcelona,Italia,2018,60.4,1.78,asma,A,O+,60.4,20,198,Desgarro muscular,2023-11-27,2024-01-01,desgarro muscular leve,Recovered
-45156482S,Patricia,Gómez,21,Defensora,Arsenal,Francia,2021,63.2,1.71,asma,B,A-,69.4,16,167,Lesión muscular,2024-09-28,2024-11-18,lesión muscular leve,Recovering
-26265731I,Elisa,Sanz,20,Defensora,Tottenham,España,2020,57.9,1.7,asma,A,O-,69.7,7,177,Rotura de ligamentos,2024-03-03,2024-05-01,rotura de ligamentos leve,Recovered
-73695332V,Adriana,López,23,Centrocampista,Manchester City,Italia,2020,64.1,1.62,ninguna,A,B-,65.4,14,138,Fractura de nariz,2024-04-11,2024-05-17,fractura de nariz leve,Recovering
-77944387R,Adriana,Gómez,21,Portera,Atlético Madrid,UK,2019,56.0,1.61,asma,B,B-,71.8,20,188,Lesión muscular,2023-11-29,2023-12-07,lesión muscular leve,Recovering
-46425918S,Adriana,Ruiz,30,Delantera,Leicester City,Francia,2020,60.0,1.75,ninguna,A,O-,70.4,12,104,Lesión de hombro,2024-04-29,2024-05-06,lesión de hombro leve,Recovering
-59175281G,Paula,Moreno,22,Centrocampista,Olympique Lyon,Italia,2023,55.6,1.75,ninguna,A,O+,62.5,19,150,Contusión,2024-03-20,2024-05-15,contusión leve,Recovering
-18068898R,Marta,Fernández,27,Centrocampista,Inter de Milán,Francia,2020,61.7,1.63,ninguna,C,O-,62.4,18,162,Rotura de ligamentos,2024-09-19,2024-10-11,rotura de ligamentos leve,Recovering
-34055501C,Verónica,Ramírez,25,Portera,Atlético Madrid,Francia,2020,55.4,1.61,ninguna,B,AB-,65.0,11,164,Esguince de tobillo,2023-11-09,2023-12-21,esguince de tobillo leve,Doubtful
-71153427Z,Marta,Martínez,28,Defensora,Leicester City,Alemania,2021,59.9,1.79,asma,C,AB+,67.7,13,173,Esguince de tobillo,2024-05-06,2024-05-12,esguince de tobillo leve,Recovering
-20707622F,Lucía,García,24,Portera,AC Milan,Alemania,2022,60.1,1.71,ninguna,A,A+,65.0,2,176,Lesión muscular,2024-06-03,2024-06-29,lesión muscular leve,Recovered
-36268520J,Adriana,García,22,Defensora,Bayern Munich,UK,2020,60.4,1.75,ninguna,B,B+,72.6,14,197,Fractura de nariz,2024-01-16,2024-03-07,fractura de nariz leve,Recovered
-70802389K,Cristina,Gómez,29,Delantera,Bayern Munich,España,2020,60.9,1.76,ninguna,A,O-,74.6,5,187,Esguince de tobillo,2024-04-24,2024-06-04,esguince de tobillo leve,Doubtful
-73177541E,Natalia,Pérez,28,Defensora,Manchester United,Alemania,2018,59.3,1.77,ninguna,C,AB-,72.0,12,105,Tendinitis,2024-08-13,2024-08-25,tendinitis leve,Recovering
-88952936S,Blanca,Gómez,21,Defensora,Sevilla,Francia,2019,55.5,1.67,asma,C,AB-,66.4,4,106,Contusión,2024-01-30,2024-03-01,contusión leve,Doubtful
-40800027C,Sofia,Ruiz,24,Centrocampista,Borussia Dortmund,España,2018,62.4,1.68,asma,C,B-,66.4,9,136,Contractura,2024-02-27,2024-03-10,contractura leve,Recovered
-67339994W,Ana,González,24,Centrocampista,Olympique Lyon,Alemania,2018,57.7,1.75,ninguna,C,B+,61.3,14,147,Contractura,2024-06-05,2024-07-03,contractura leve,Recovered
-59995454K,Cristina,Cruz,20,Portera,Bayern Munich,Alemania,2018,57.0,1.66,ninguna,C,A-,74.3,16,160,Contractura,2024-06-16,2024-06-25,contractura leve,Doubtful
-86269807A,Isabel,Navarro,21,Centrocampista,Real Madrid,España,2022,57.3,1.72,ninguna,C,A-,73.4,9,181,Desgarro muscular,2024-02-15,2024-03-26,desgarro muscular leve,Doubtful
-25726516N,Julia,Ruiz,23,Centrocampista,Real Sociedad,Alemania,2019,60.8,1.69,ninguna,B,A-,72.3,13,191,Lesión de hombro,2024-09-13,2024-10-04,lesión de hombro leve,Recovering
-23026188V,Isabel,Moya,25,Defensora,Olympique Lyon,Francia,2019,62.7,1.72,ninguna,A,AB+,65.8,4,102,Tendinitis,2024-03-15,2024-04-19,tendinitis leve,Recovering
-88830299Q,Sara,García,25,Portera,Real Sociedad,UK,2019,62.0,1.72,ninguna,A,AB+,73.3,13,143,Lesión de hombro,2024-02-25,2024-03-19,lesión de hombro leve,Doubtful
-43016805O,Laura,Martínez,26,Centrocampista,Real Madrid,Italia,2019,60.9,1.7,asma,B,AB-,64.2,18,175,Lesión muscular,2024-07-16,2024-08-12,lesión muscular leve,Recovering
+97292270O,Patricia,Sanz,27,Centrocampista,Real Sociedad,UK,2021,61.1,1.66,ninguna,C,B-,68.6,3,149,Contusión,2023-12-12,2024-01-29,contusión leve,Recovering
+51445944A,Elisa,Moreno,23,Portera,Olympique Lyon,Italia,2019,64.1,1.7,ninguna,B,A+,64.8,20,191,Fractura de nariz,2023-10-31,2023-12-26,fractura de nariz leve,Recovering
+25772109W,Isabel,Moreno,30,Centrocampista,PSG,España,2023,61.4,1.77,ninguna,A,O-,61.0,7,138,Contractura,2024-02-02,2024-03-30,contractura leve,Doubtful
+30625123K,Laura,Sanz,29,Defensora,Tottenham,Alemania,2018,61.2,1.73,ninguna,A,A+,70.4,13,126,Fractura de nariz,2024-03-27,2024-04-27,fractura de nariz leve,Doubtful
+26328560N,Elena,Serrano,26,Centrocampista,Valencia,Italia,2020,56.3,1.62,ninguna,C,AB-,73.0,18,145,Esguince de tobillo,2024-07-01,2024-07-24,esguince de tobillo leve,Doubtful
+51436466X,Blanca,Fernández,26,Centrocampista,Chelsea,España,2021,61.6,1.74,asma,C,AB+,68.4,7,180,Desgarro muscular,2024-01-14,2024-01-20,desgarro muscular leve,Recovered
+51081459V,Laura,Martínez,27,Portera,Juventus,España,2020,59.0,1.67,asma,A,B-,63.9,9,174,Contusión,2024-03-11,2024-03-20,contusión leve,Recovering
+78019900J,Raquel,González,29,Delantera,Valencia,Italia,2018,58.0,1.72,ninguna,A,A+,64.2,4,108,Fractura de nariz,2024-02-18,2024-03-27,fractura de nariz leve,Doubtful
+19347755C,Adriana,Cruz,22,Portera,Real Madrid,Alemania,2023,55.7,1.68,ninguna,C,B-,70.0,17,183,Lesión muscular,2024-09-17,2024-11-11,lesión muscular leve,Recovering
+17215354C,Marta,Pérez,28,Delantera,Juventus,Italia,2019,60.6,1.69,asma,A,A-,67.5,0,132,Desgarro muscular,2024-06-18,2024-07-30,desgarro muscular leve,Doubtful
+40223722P,Carmen,Moya,22,Delantera,Valencia,Alemania,2019,59.7,1.62,asma,B,O-,72.0,13,190,Lesión muscular,2024-04-10,2024-05-04,lesión muscular leve,Recovering
+25043027A,Sofia,Jiménez,23,Defensora,AC Milan,Francia,2021,63.5,1.8,ninguna,B,A+,67.5,1,199,Contusión,2024-07-29,2024-09-12,contusión leve,Doubtful
+80516638M,Adriana,Vega,23,Portera,Valencia,Alemania,2019,64.7,1.61,asma,B,A+,65.7,9,118,Lesión de hombro,2024-01-13,2024-02-07,lesión de hombro leve,Doubtful
+67733666H,Cristina,Ruiz,20,Defensora,Arsenal,Francia,2018,58.4,1.64,asma,C,O-,65.1,6,191,Lesión muscular,2024-08-07,2024-09-12,lesión muscular leve,Recovering
+73810631F,Lucía,Ruiz,26,Delantera,Barcelona,UK,2022,62.4,1.69,asma,C,B+,63.7,3,182,Lesión muscular,2023-12-17,2024-01-17,lesión muscular leve,Doubtful
+47426285C,Isabel,Serrano,24,Centrocampista,PSG,España,2023,61.4,1.78,asma,C,A-,62.7,3,182,Rotura de ligamentos,2024-07-04,2024-08-09,rotura de ligamentos leve,Doubtful
+84834283Z,Julia,Vega,25,Portera,Borussia Dortmund,UK,2019,55.5,1.68,ninguna,A,A+,70.6,3,130,Esguince de tobillo,2024-04-16,2024-05-16,esguince de tobillo leve,Doubtful
+68537955F,Isabel,Ramírez,22,Delantera,Arsenal,UK,2017,60.0,1.75,asma,A,B-,60.4,18,176,Contusión,2024-09-23,2024-10-02,contusión leve,Recovered
+69959912Z,Lucía,Cruz,28,Centrocampista,Atlético Madrid,España,2020,56.8,1.75,asma,A,AB+,61.5,15,163,Esguince de tobillo,2023-12-09,2023-12-24,esguince de tobillo leve,Recovered
+38155099C,Ana,Cruz,30,Delantera,Real Madrid,España,2018,57.0,1.71,ninguna,C,AB-,65.2,19,183,Lesión muscular,2023-11-18,2024-01-06,lesión muscular leve,Doubtful
+45606578H,Julia,García,26,Portera,Barcelona,UK,2021,64.2,1.72,ninguna,A,O-,65.6,0,117,Lesión de hombro,2024-05-21,2024-06-28,lesión de hombro leve,Recovered
+38431311M,Raquel,López,26,Delantera,Borussia Dortmund,UK,2018,60.7,1.78,ninguna,C,AB-,72.9,15,179,Lesión de hombro,2024-01-10,2024-03-08,lesión de hombro leve,Doubtful
+83926044O,Laura,Jiménez,25,Delantera,Barcelona,Francia,2022,63.5,1.77,ninguna,B,B-,61.5,18,111,Contractura,2024-01-15,2024-02-15,contractura leve,Recovered
+87860087M,Blanca,Fernández,29,Delantera,Tottenham,Francia,2018,57.3,1.79,asma,B,A+,67.0,3,181,Fractura de nariz,2024-03-19,2024-05-14,fractura de nariz leve,Doubtful
+41387849I,Carmen,Díaz,26,Defensora,Real Madrid,Italia,2021,57.4,1.68,ninguna,B,B-,74.1,9,115,Fractura de nariz,2024-07-27,2024-09-03,fractura de nariz leve,Recovered
+70411314G,Patricia,Gómez,28,Portera,Liverpool,Italia,2018,59.8,1.66,ninguna,C,AB-,74.7,13,152,Lesión de hombro,2024-03-23,2024-05-02,lesión de hombro leve,Recovered
+54951217O,Laura,Ruiz,24,Defensora,Barcelona,España,2018,62.6,1.77,asma,A,AB+,69.7,13,181,Contusión,2024-06-01,2024-07-16,contusión leve,Recovered
+66362234P,Elisa,Sanz,23,Delantera,Real Madrid,UK,2017,62.8,1.61,asma,B,AB-,70.3,14,111,Rotura de ligamentos,2024-05-11,2024-06-17,rotura de ligamentos leve,Doubtful
+87368417R,Sara,Díaz,25,Delantera,Manchester United,UK,2019,55.9,1.69,asma,C,O-,68.0,13,164,Contusión,2024-04-13,2024-06-10,contusión leve,Recovered
+88907995F,Paula,Díaz,29,Delantera,Manchester United,Francia,2020,58.8,1.7,ninguna,A,O+,71.0,16,154,Rotura de ligamentos,2024-06-22,2024-07-21,rotura de ligamentos leve,Doubtful
+37704972O,Natalia,Moya,24,Defensora,Valencia,Alemania,2021,64.2,1.79,asma,C,AB-,66.4,13,120,Contractura,2024-08-05,2024-09-28,contractura leve,Recovering
+53854232C,Carmen,Sanz,21,Centrocampista,Tottenham,UK,2023,60.4,1.63,ninguna,B,B+,65.1,6,153,Desgarro muscular,2024-09-22,2024-10-19,desgarro muscular leve,Recovering
+77565619G,Sara,Ramírez,29,Delantera,Real Sociedad,Francia,2022,60.5,1.75,asma,B,AB-,73.7,8,105,Contractura,2024-03-29,2024-04-04,contractura leve,Recovered
+12807252P,Raquel,Navarro,28,Delantera,Valencia,Italia,2017,58.0,1.74,ninguna,A,O-,69.2,6,119,Contractura,2024-03-30,2024-05-08,contractura leve,Recovering
+49121639W,Carmen,Vega,20,Portera,PSG,Italia,2021,62.1,1.79,ninguna,A,O-,61.7,5,168,Tendinitis,2024-04-07,2024-05-01,tendinitis leve,Recovering
+70606695J,Cristina,Cruz,24,Delantera,Bayern Munich,España,2023,58.6,1.76,asma,C,A-,66.6,8,181,Rotura de ligamentos,2024-08-02,2024-09-18,rotura de ligamentos leve,Recovered
+45774729U,Julia,Díaz,21,Defensora,Sevilla,Italia,2018,62.8,1.71,asma,B,AB+,72.2,9,110,Lesión muscular,2024-08-09,2024-10-06,lesión muscular leve,Recovering
+95642458C,Julia,García,29,Defensora,Olympique Lyon,UK,2023,58.4,1.6,asma,C,AB+,70.5,14,115,Contusión,2024-03-09,2024-04-11,contusión leve,Doubtful
+24518800J,Marta,Vega,26,Portera,Barcelona,Italia,2019,63.7,1.75,asma,B,O+,71.4,4,155,Fractura de nariz,2023-11-15,2023-12-16,fractura de nariz leve,Doubtful
+79763252G,Cristina,Martínez,27,Centrocampista,Inter de Milán,España,2020,64.4,1.67,asma,A,AB-,72.0,10,112,Lesión muscular,2024-04-18,2024-04-28,lesión muscular leve,Doubtful
+37481354I,Isabel,Gómez,28,Centrocampista,Tottenham,Italia,2020,59.6,1.71,ninguna,A,A-,73.4,5,198,Contusión,2024-01-06,2024-01-18,contusión leve,Doubtful
+90121809G,Raquel,Ortega,25,Centrocampista,Bayern Munich,Francia,2019,58.2,1.77,ninguna,C,O-,68.5,3,127,Tendinitis,2024-03-23,2024-05-14,tendinitis leve,Doubtful
+92241923V,Ana,Ruiz,29,Delantera,AC Milan,Francia,2022,57.8,1.68,asma,B,A-,74.5,8,144,Esguince de tobillo,2024-04-09,2024-05-26,esguince de tobillo leve,Doubtful
+93260355T,Patricia,Ortega,27,Defensora,Juventus,UK,2021,59.1,1.64,ninguna,C,B+,71.5,1,146,Fractura de nariz,2024-02-01,2024-03-23,fractura de nariz leve,Recovered
+33259708K,Paula,Díaz,22,Defensora,Arsenal,España,2019,61.8,1.64,ninguna,A,O-,61.3,5,105,Lesión muscular,2024-05-14,2024-06-16,lesión muscular leve,Recovering
+11093089N,Elena,Serrano,28,Defensora,Barcelona,Alemania,2017,58.4,1.69,asma,B,B-,74.7,19,134,Lesión de hombro,2024-09-30,2024-10-25,lesión de hombro leve,Doubtful
+52689765X,Isabel,López,27,Portera,Inter de Milán,Italia,2021,62.4,1.67,asma,A,AB-,66.9,18,180,Desgarro muscular,2024-05-20,2024-05-31,desgarro muscular leve,Recovered
+10120575A,Laura,Ramírez,20,Portera,Bayern Munich,Alemania,2023,62.3,1.73,ninguna,C,AB+,64.1,13,118,Lesión muscular,2024-09-13,2024-10-23,lesión muscular leve,Doubtful
+23639201D,Natalia,Navarro,24,Delantera,Sevilla,Italia,2019,58.0,1.64,ninguna,C,AB+,65.4,4,179,Esguince de tobillo,2023-11-04,2023-11-18,esguince de tobillo leve,Doubtful
+14012870U,Natalia,Ortega,30,Centrocampista,AC Milan,UK,2017,57.6,1.72,asma,A,AB+,65.6,10,112,Lesión de hombro,2023-12-22,2024-02-11,lesión de hombro leve,Recovering
+75873813P,Patricia,Gómez,24,Delantera,Atlético Madrid,UK,2017,55.9,1.64,asma,C,A-,73.1,18,145,Lesión muscular,2024-01-26,2024-02-05,lesión muscular leve,Recovering
+39923942A,Paula,Ruiz,26,Defensora,Manchester United,España,2018,62.5,1.79,asma,A,O+,63.3,19,118,Contractura,2024-09-23,2024-11-19,contractura leve,Doubtful
+14203908X,Raquel,Serrano,25,Portera,Sevilla,Alemania,2017,60.2,1.61,asma,A,AB+,60.2,4,197,Contractura,2023-12-26,2024-02-04,contractura leve,Recovered
+29083677C,Maria,López,23,Portera,Sevilla,España,2021,57.8,1.64,asma,C,O-,73.3,11,200,Fractura de nariz,2024-09-17,2024-11-12,fractura de nariz leve,Doubtful
+60778869A,Maria,Vega,25,Delantera,Liverpool,UK,2020,59.4,1.68,ninguna,C,AB-,68.8,7,193,Tendinitis,2024-03-04,2024-04-27,tendinitis leve,Recovered
+50950151R,Elena,Martínez,26,Portera,PSG,Francia,2023,61.6,1.79,ninguna,C,AB+,61.4,10,106,Esguince de tobillo,2024-03-16,2024-05-03,esguince de tobillo leve,Doubtful
+67572109Z,Maria,Díaz,28,Portera,Liverpool,España,2023,63.4,1.77,asma,B,B+,68.6,12,131,Desgarro muscular,2024-09-02,2024-09-16,desgarro muscular leve,Recovering
+91126654U,Isabel,Ruiz,30,Delantera,Juventus,Alemania,2022,59.1,1.73,ninguna,C,A-,69.6,6,167,Fractura de nariz,2024-07-10,2024-07-31,fractura de nariz leve,Doubtful
+63852504O,Blanca,Suárez,30,Portera,Barcelona,Italia,2020,63.0,1.69,asma,B,A+,63.6,13,164,Lesión de hombro,2024-02-16,2024-03-12,lesión de hombro leve,Recovering
+70297414M,Lucía,Moreno,22,Delantera,Sevilla,Italia,2023,55.3,1.71,ninguna,B,A-,70.4,3,185,Esguince de tobillo,2024-05-16,2024-07-10,esguince de tobillo leve,Recovering
+46313887H,Patricia,López,30,Delantera,Inter de Milán,Italia,2018,57.1,1.77,asma,A,A+,63.5,10,130,Rotura de ligamentos,2024-06-16,2024-06-25,rotura de ligamentos leve,Recovered
+43611754Y,Paula,Sanz,20,Portera,Bayern Munich,España,2020,63.9,1.73,asma,B,AB+,65.8,15,140,Tendinitis,2024-03-04,2024-04-11,tendinitis leve,Doubtful
+41489706X,Elisa,Ortega,27,Defensora,Juventus,Francia,2022,57.2,1.7,ninguna,B,B-,63.6,8,200,Lesión de hombro,2024-03-05,2024-03-27,lesión de hombro leve,Recovering
+85230653R,Lucía,Díaz,21,Delantera,Bayern Munich,Francia,2023,55.9,1.79,asma,B,AB+,68.2,19,137,Lesión de hombro,2023-12-08,2023-12-29,lesión de hombro leve,Recovered
+52230487K,Patricia,Suárez,23,Centrocampista,Leicester City,Francia,2023,57.6,1.72,ninguna,C,O+,70.8,5,113,Contractura,2024-08-04,2024-08-14,contractura leve,Doubtful
+48305028L,Sofia,Moreno,26,Defensora,Real Madrid,Italia,2018,61.3,1.75,ninguna,B,O+,74.3,13,177,Desgarro muscular,2023-11-20,2023-12-18,desgarro muscular leve,Recovering
+79802614E,Natalia,Moreno,27,Portera,Olympique Lyon,Alemania,2017,59.8,1.8,asma,B,AB-,63.6,17,182,Rotura de ligamentos,2024-03-24,2024-04-01,rotura de ligamentos leve,Recovering
+11799639H,Carmen,Moreno,25,Delantera,Valencia,España,2017,57.9,1.62,asma,C,B-,73.0,8,172,Rotura de ligamentos,2024-04-13,2024-04-30,rotura de ligamentos leve,Doubtful
+58438036G,Julia,Navarro,26,Centrocampista,Olympique Lyon,UK,2018,55.7,1.65,asma,A,AB-,66.9,14,183,Rotura de ligamentos,2024-06-27,2024-08-20,rotura de ligamentos leve,Recovered
+27029646V,Sofia,García,21,Defensora,Valencia,Alemania,2018,59.9,1.77,asma,C,AB-,61.3,2,159,Fractura de nariz,2024-05-29,2024-07-16,fractura de nariz leve,Doubtful
+63659332R,Isabel,Serrano,26,Defensora,Atlético Madrid,Italia,2017,62.2,1.63,ninguna,C,A+,67.2,2,195,Lesión de hombro,2023-12-26,2024-01-27,lesión de hombro leve,Recovered
+35044173C,Elisa,García,24,Delantera,Inter de Milán,España,2021,62.0,1.62,ninguna,B,AB+,60.0,17,174,Contusión,2024-05-28,2024-07-14,contusión leve,Doubtful
+93512207N,Maria,Suárez,23,Defensora,Chelsea,Francia,2023,64.1,1.74,asma,B,O+,60.8,1,139,Contractura,2024-01-19,2024-03-13,contractura leve,Doubtful
+95605989K,Raquel,García,28,Delantera,Atlético Madrid,Francia,2021,59.8,1.7,asma,C,AB+,69.8,20,108,Lesión de hombro,2024-05-23,2024-05-30,lesión de hombro leve,Recovering
+75293107N,Raquel,Ramírez,21,Delantera,Barcelona,Francia,2019,63.8,1.68,asma,B,O-,72.0,12,138,Contusión,2024-06-26,2024-08-07,contusión leve,Doubtful
+85085108W,Paula,Ortega,24,Delantera,Manchester United,Alemania,2018,63.4,1.68,ninguna,C,A-,72.5,20,174,Rotura de ligamentos,2024-08-12,2024-09-03,rotura de ligamentos leve,Recovered
+87612964Z,Patricia,Ortega,20,Defensora,Barcelona,Francia,2017,56.2,1.76,asma,A,AB+,74.6,18,157,Lesión de hombro,2024-05-20,2024-06-30,lesión de hombro leve,Recovered
+69633816O,Raquel,García,26,Centrocampista,Real Madrid,UK,2020,61.3,1.77,ninguna,A,AB+,73.3,8,124,Lesión muscular,2024-09-15,2024-11-09,lesión muscular leve,Recovered
+57279907F,Natalia,Ortega,22,Defensora,Juventus,Alemania,2018,56.8,1.7,asma,C,B-,69.4,2,105,Esguince de tobillo,2024-08-19,2024-08-27,esguince de tobillo leve,Recovered
+84907622H,Cristina,Vega,21,Centrocampista,Tottenham,Francia,2021,63.6,1.73,asma,C,AB+,71.0,12,105,Contractura,2023-11-06,2023-11-22,contractura leve,Doubtful
+94121467Q,Julia,González,28,Delantera,Tottenham,Francia,2018,59.8,1.73,ninguna,B,B-,61.9,0,104,Tendinitis,2024-04-16,2024-06-10,tendinitis leve,Recovering
+48413066R,Natalia,Ramírez,22,Portera,Manchester United,Francia,2019,62.4,1.61,asma,B,AB-,74.8,18,185,Desgarro muscular,2024-03-06,2024-04-28,desgarro muscular leve,Doubtful
+77979432R,Elena,González,25,Defensora,Arsenal,Alemania,2023,61.7,1.67,asma,A,A-,63.6,3,168,Rotura de ligamentos,2024-09-17,2024-09-25,rotura de ligamentos leve,Doubtful
+51039080P,Maria,Pérez,23,Defensora,AC Milan,España,2019,61.5,1.77,ninguna,A,AB-,68.1,6,178,Esguince de tobillo,2024-06-13,2024-08-03,esguince de tobillo leve,Doubtful
+60878741A,Marta,López,26,Portera,Valencia,UK,2022,58.7,1.74,ninguna,B,A-,73.0,7,140,Contractura,2024-04-26,2024-05-15,contractura leve,Recovered
+91829070Y,Carmen,Moya,21,Centrocampista,AC Milan,Alemania,2017,56.2,1.69,ninguna,A,O-,72.1,5,118,Fractura de nariz,2024-04-17,2024-05-18,fractura de nariz leve,Recovered
+61752797V,Verónica,Navarro,30,Portera,Liverpool,Francia,2023,58.7,1.65,ninguna,A,A-,72.3,13,104,Contusión,2024-04-10,2024-04-22,contusión leve,Doubtful
+34254740U,Marta,López,27,Defensora,Liverpool,Alemania,2021,64.1,1.62,ninguna,C,O-,73.6,16,161,Tendinitis,2024-08-31,2024-10-01,tendinitis leve,Recovered
+90556326E,Laura,García,22,Centrocampista,Inter de Milán,Italia,2018,63.8,1.69,asma,B,AB+,64.3,8,147,Desgarro muscular,2024-03-08,2024-04-27,desgarro muscular leve,Recovered
+77987361A,Sofia,García,27,Centrocampista,Olympique Lyon,Italia,2022,62.3,1.77,ninguna,B,AB-,68.7,1,126,Fractura de nariz,2024-01-30,2024-03-22,fractura de nariz leve,Recovered
+84841365N,Carmen,Cruz,21,Centrocampista,Arsenal,UK,2021,59.9,1.75,asma,B,A-,72.8,4,188,Desgarro muscular,2024-05-31,2024-06-18,desgarro muscular leve,Recovering
+49970385L,Paula,Ramírez,29,Defensora,Real Madrid,Alemania,2018,56.7,1.71,asma,A,AB-,65.6,8,196,Tendinitis,2024-03-24,2024-04-19,tendinitis leve,Recovering
+86130990H,Patricia,Moya,29,Delantera,Atlético Madrid,Francia,2021,55.1,1.79,asma,C,AB+,73.0,13,152,Esguince de tobillo,2024-09-27,2024-10-24,esguince de tobillo leve,Recovered
+50810020N,Julia,Serrano,27,Delantera,Inter de Milán,España,2023,57.0,1.79,ninguna,A,A-,73.1,2,167,Rotura de ligamentos,2023-11-14,2023-12-29,rotura de ligamentos leve,Doubtful
+89768936V,Ana,González,30,Portera,AC Milan,UK,2017,63.2,1.72,asma,B,AB-,73.0,2,159,Contusión,2024-04-02,2024-04-26,contusión leve,Recovered
+72357998V,Carmen,Martínez,28,Portera,Bayern Munich,Italia,2017,57.4,1.63,ninguna,C,O-,61.7,18,182,Esguince de tobillo,2024-03-06,2024-04-22,esguince de tobillo leve,Recovered
+44708082R,Carmen,Jiménez,26,Centrocampista,Inter de Milán,Italia,2021,59.1,1.75,ninguna,B,AB+,65.6,11,150,Fractura de nariz,2024-04-25,2024-06-07,fractura de nariz leve,Recovering
+28188515O,Marta,García,20,Centrocampista,Borussia Dortmund,UK,2023,57.0,1.66,ninguna,C,A-,65.3,19,146,Lesión muscular,2024-03-15,2024-04-17,lesión muscular leve,Recovered
+85765569E,Natalia,Jiménez,20,Centrocampista,AC Milan,Francia,2017,56.3,1.72,asma,C,A-,69.6,9,162,Contractura,2024-01-06,2024-02-18,contractura leve,Recovered
+97467663Y,Elena,Ruiz,28,Delantera,Bayern Munich,Francia,2021,59.2,1.73,ninguna,B,A+,72.0,7,196,Desgarro muscular,2024-08-14,2024-08-31,desgarro muscular leve,Recovering
