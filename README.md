@@ -24,7 +24,7 @@ Este repositorio contiene el desarrollo de una práctica sobre bases de datos No
 1. **Conexión a MongoDB**: Asegúrate de tener MongoDB ejecutándose. Puedes modificar la URL de conexión en el script para conectar a un servidor remoto si es necesario.
    
 2. **Estructura del Esquema**: No es necesario definir un esquema rígido en MongoDB, pero los documentos siguen esta estructura general:
-    ```json
+    ```javascript
   db.jugadoras.insertOne({
     "_id": "1",
     "dni": "12345678A",
