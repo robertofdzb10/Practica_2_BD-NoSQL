@@ -49,16 +49,16 @@ db.jugadoras.insertOne({
     "goles": 15,
     "pases": 120
   },
-  "lesiones": [
+  "lesiones":
     {
       "tipo_lesion": "Lesión muscular",
       "fecha_inicio": ISODate("2024-08-18"),
       "fecha_fin": ISODate("2024-09-18"),
       "descripcion": "Lesión en el muslo",
       "retorno_estimado": "Doubtful"
-    }
-  ]
-})
+      }
+    ]
+  })
 
     ```
 
