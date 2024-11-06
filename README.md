@@ -92,7 +92,6 @@ Este repositorio contiene el desarrollo de una práctica sobre bases de datos No
 ## Optimización con Índices
 
 Para mejorar el rendimiento de las consultas, se agregaron índices en los siguientes campos:
-- **`dni`**: Acceso directo a registros.
 - **`equipo.nombre`**: Búsquedas por equipo.
 - **`equipo.pais`**: Filtrado por país.
 - **`equipo.start_year`**: Filtrado por año de inicio.
