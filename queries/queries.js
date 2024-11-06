@@ -70,42 +70,49 @@ db.jugadoras.find({
   dni: "33587252K"
 }).pretty()
 
-// 3. Consultas (Obteniendo el tiempo de ejecución)
+// 3. Consultas
 
 // Consulta por una jugadora específica
 db.jugadoras.find({
   dni: "12345678A",
   "equipo.start_year": { $gt: 2020 }
-})
+}).pretty()
 
+// Obtener el tiempo de ejecución de la consulta
 db.jugadoras.find({
   dni: "12345678A",
   "equipo.start_year": { $gt: 2020 }
-}).explain("executionStats")
+}).explain("executionStats").executionStats.executionTimeMillis
+
 
 // Filtrar por Equipos que Empiecen con "Manchester…"
 db.jugadoras.find({
+  dni: "12345678A",
   "equipo.nombre": { $regex: /^Manchester/, $options: "i" }
-})
+}).pretty()
 
+// Obtener el tiempo de ejecución de la consulta
 db.jugadoras.find({
+  dni: "12345678A",
   "equipo.nombre": { $regex: /^Manchester/, $options: "i" }
-}).explain("executionStats")
+}).explain("executionStats").executionStats.executionTimeMillis
+
 
 // Consulta por un País Específico
 db.jugadoras.find({
+  dni: "25772109W",
   "equipo.pais": "España"
-})
+}).pretty()
 
+// Obtener el tiempo de ejecución de la consulta
 db.jugadoras.find({
+  dni: "25772109W",
   "equipo.pais": "España"
-}).explain("executionStats")
+}).explain("executionStats").executionStats.executionTimeMillis
+
 
 
 // 4. Índices para Optimización
-
-// Índice en el campo dni para acceso directo
-db.jugadoras.createIndex({ dni: 1 });
 
 // Índice en el campo equipo.nombre para búsquedas de equipos
 db.jugadoras.createIndex({ "equipo.nombre": 1 });
@@ -115,3 +122,4 @@ db.jugadoras.createIndex({ "equipo.pais": 1 });
 
 // Índice en el campo equipo.start_year para consultas por año de inicio
 db.jugadoras.createIndex({ "equipo.start_year": 1 });
+

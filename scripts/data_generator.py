@@ -7,11 +7,16 @@ data = []
 dni_set = set()        # Para verificar unicidad del DNI
 nombre_apellido_set = set()  # Para verificar unicidad de nombre-apellido
 
-nombres = ["Ana", "Laura", "Sofia", "Elena", "Lucía", "Maria", "Carmen", "Sara", "Raquel", "Patricia", "Julia", "Cristina", "Elisa", "Paula", "Natalia", "Blanca", "Adriana", "Verónica", "Isabel", "Marta"]
-apellidos = ["González", "Martínez", "Jiménez", "Suárez", "Fernández", "Ruiz", "Díaz", "López", "García", "Moreno", "Navarro", "Serrano", "Gómez", "Sanz", "Cruz", "Moya", "Ramírez", "Vega", "Pérez", "Ortega"]
-equipos = ["Manchester United", "Real Madrid", "Barcelona", "PSG", "Juventus", "Arsenal", "Olympique Lyon", "Real Sociedad", "Atlético Madrid", "Chelsea", "Valencia", "Sevilla", "AC Milan", "Inter de Milán", "Bayern Munich", "Liverpool", "Manchester City", "Tottenham", "Borussia Dortmund", "Leicester City"]
+nombres = ["Ana", "Laura", "Sofia", "Elena", "Lucía", "Maria", "Carmen", "Sara", "Raquel", "Patricia", "Julia", 
+           "Cristina", "Elisa", "Paula", "Natalia", "Blanca", "Adriana", "Verónica", "Isabel", "Marta"]
+apellidos = ["González", "Martínez", "Jiménez", "Suárez", "Fernández", "Ruiz", "Díaz", "López", "García", 
+             "Moreno", "Navarro", "Serrano", "Gómez", "Sanz", "Cruz", "Moya", "Ramírez", "Vega", "Pérez", "Ortega"]
+equipos = ["Manchester United", "Real Madrid", "Barcelona", "PSG", "Juventus", "Arsenal", "Olympique Lyon", 
+           "Real Sociedad", "Atlético Madrid", "Chelsea", "Valencia", "Sevilla", "AC Milan", "Inter de Milán", 
+           "Bayern Munich", "Liverpool", "Manchester City", "Tottenham", "Borussia Dortmund", "Leicester City"]
 paises = ["UK", "España", "Francia", "Italia", "Alemania"]
-lesiones = ["Lesión muscular", "Esguince de tobillo", "Contusión", "Fractura de nariz", "Contractura", "Tendinitis", "Desgarro muscular", "Lesión de hombro", "Rotura de ligamentos"]
+lesiones = ["Lesión muscular", "Esguince de tobillo", "Contusión", "Fractura de nariz", "Contractura", 
+            "Tendinitis", "Desgarro muscular", "Lesión de hombro", "Rotura de ligamentos"]
 categorias = ["A", "B", "C"]
 grupos_sanguineos = ["O+", "O-", "A+", "A-", "B+", "B-", "AB+", "AB-"]
 
